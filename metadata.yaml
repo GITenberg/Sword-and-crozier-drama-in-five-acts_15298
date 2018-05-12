@@ -1,0 +1,38 @@
+_repo: Sword-and-crozier-drama-in-five-acts_15298
+_version: 0.1.0
+alternative_title: Poet Lore; Volume XXIV, Number IV, 1912
+contributor:
+  translator:
+    agent_name: Hollander, Lee Milton
+    birthdate: 1880
+    deathdate: 1972
+    gutenberg_agent_id: '5992'
+    url: http://www.gutenberg.org/2009/agents/5992
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Indriði Einarsson
+    aliases:
+    - Indridi Einarsson
+    - Einarsson, Indridi
+    birthdate: 1851
+    deathdate: 1939
+    gutenberg_agent_id: '5991'
+    url: http://www.gutenberg.org/2009/agents/5991
+    wikipedia: https://is.wikipedia.org/wiki/Indri%C3%B0i_Einarsson
+description: ''
+gutenberg_issued: '2005-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Icelandic drama -- Translations into English'
+title: Sword and crozier, drama in five acts
+url: http://www.gutenberg.org/ebooks/15298
